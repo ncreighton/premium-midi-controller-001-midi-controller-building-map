@@ -1,0 +1,2 @@
+# premium-midi-controller-001-midi-controller-building-map
+Tired of losing track of which knob controls what effect, or endlessly debugging your MIDI controller layout? The MIDI Controller Building &amp; Map Craft Lab brings order to the chaos of controller design.  This Notion template provides a structured workspace for planning, building, and documenting your custom MIDI controllers. No more scattered notes
